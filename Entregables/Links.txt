@@ -1,4 +1,5 @@
 GitHub:
-https://github.com/alear123/Facultad
+https://github.com/alear123/Facultad.git
 
-Render:https://tp-api-rest-con-paginacion.onrender.com
+Render:
+https://tp-api-rest-con-paginacion.onrender.com
